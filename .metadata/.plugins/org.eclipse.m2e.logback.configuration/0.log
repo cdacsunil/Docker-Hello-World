@@ -1,0 +1,65 @@
+2017-06-12 14:40:41,905 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-12 14:40:42,134 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-12 14:40:42,308 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-12 14:40:42,485 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-12 14:41:20,964 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\pom.xml
+2017-06-12 14:41:23,181 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: docker-git-hello-world:docker-git-hello-world:1.0.0-SNAPSHOT @ C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\pom.xml.
+2017-06-12 14:41:23,740 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docker-git-hello-world/src/main/java
+2017-06-12 14:41:23,747 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docker-git-hello-world/src/test/java
+2017-06-12 14:41:24,237 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-06-12 14:41:25,152 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:41:25,152 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:41:25,154 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:41:25,154 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:41:45,877 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:41:45,877 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:41:45,878 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:41:45,891 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:42:05,484 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:42:05,484 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:42:05,486 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:42:05,491 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:42:42,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:42:42,420 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:42:42,424 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:42:42,428 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:43:07,281 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: docker-git-hello-world:docker-git-hello-world:0.0.1-SNAPSHOT @ C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\pom.xml.
+2017-06-12 14:43:07,560 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:07,560 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:43:07,566 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:07,572 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:43:08,938 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:08,939 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:43:08,962 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:08,974 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:43:56,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:56,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:43:56,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:56,662 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:44:23,352 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:44:23,352 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:44:23,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:44:23,378 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:44:49,051 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:44:49,051 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:44:49,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:44:49,076 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:45:09,734 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:09,734 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:45:09,743 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:09,747 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:45:35,235 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:35,235 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:45:35,244 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:35,252 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:45:52,500 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:52,500 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:45:52,514 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:45:52,525 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 14:46:06,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:46:06,401 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 14:46:06,405 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:46:06,409 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\test\resources
+2017-06-12 15:05:00,899 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 15:05:00,899 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Sunil\Docker\UDM\docker-tutorial-master\github\Docker-Hello-World\docker-git-hello-world\src\main\resources
+2017-06-12 15:05:00,905 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
